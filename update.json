@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "commit": "1111",
+  "fallback": true,
+  "fallbackDetails": {
+    "commit": "1111",
+    "enable": false
+  },
+
+  "bundle": {
+    "uri": "url://server/bundles"
+  }
+}
